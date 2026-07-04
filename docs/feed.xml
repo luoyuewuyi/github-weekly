@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>GitHub 热点周报</title>
+    <title>GitHub 热点日刊</title>
     <link>https://luoyuewuyi.github.io/github-weekly/</link>
-    <description>🚀 GitHub 热点周报 · 第 27 期 — AI 精选最值得关注的开源项目</description>
+    <description>🚀 GitHub 热点日刊 · 第 27 期（2026-07-04） — AI 精选最值得关注的开源项目</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 04 Jul 2026 17:22:06 +0800</pubDate>
+    <pubDate>Sat, 04 Jul 2026 17:26:02 +0800</pubDate>
     <item>
       <title>xuchonglang/investing-for-beginners ⭐565</title>
       <link>https://github.com/xuchonglang/investing-for-beginners</link>
       <description>小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架
 
-💡 面向中文技术人系统梳理美股、期权与加密货币的投资知识框架，以公开索引方式将零散知识结构化。弥补中文投资教育资源缺口，是开发者入门金融市场的实用起点。
+💡 以下是为该项目撰写的推荐语（含标点共 74 字）：
+
+---
+
+中小文投资者缺乏系统化的投资知识框架，本指南以&amp;quot;词条+Wiki&amp;quot;双层架构，从美股、期权到加密货币渐进式梳理核心概念与风险。开源协作、实战导向，是中文投资入门不可多得的体系化索引。
 
 `chinese` · `cryptocurrency` · `investing` · `options` · `xiaoyinsi`</description>
       <guid isPermaLink="true">https://github.com/xuchonglang/investing-for-beginners</guid>
@@ -21,17 +25,19 @@
       <link>https://github.com/jamesob/local-llm</link>
       <description>Everything I know about running LLMs locally
 
-💡 一份由资深工程师纯手写的本地大模型实战指南，从$2k到$40k两档硬件方案、PCIe交换机组网、内核调参到Docker一键部署全覆盖。它不是空谈理论，而是把384GB显存跑通SOTA模型的每个坑都踩给你看——想摆脱API依赖的开发者，这是一份不可多得的路线图。
+💡 **jamesob/local-llm**
+
+本地运行大模型的实战知识库，覆盖模型格式、量化、推理引擎全栈。作者将数年踩坑经验浓缩为可操作的指南，帮助开发者绕过碎片化工具链的陷阱，快速搭建高效本地推理环境。
 
 </description>
       <guid isPermaLink="true">https://github.com/jamesob/local-llm</guid>
     </item>
     <item>
-      <title>mekos2772/ios-location-spoofer ⭐1,273</title>
+      <title>mekos2772/ios-location-spoofer ⭐1,274</title>
       <link>https://github.com/mekos2772/ios-location-spoofer</link>
       <description>Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 
-💡 一个JavaScript领域的优质开源项目，Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke
+💡 无需越狱即可在 iOS 上伪造 GPS 定位，解决了 iOS 封闭生态下位置模拟的历史难题。创新之处在于以独立应用形态运行，并深度集成 Shadowrocket / Surge 等主流代理工具的模块机制。开发者应关注其绕过沙箱限制的技术思路，对位置相关应用测试极具参考价值。
 
 </description>
       <guid isPermaLink="true">https://github.com/mekos2772/ios-location-spoofer</guid>
@@ -41,17 +47,21 @@
       <link>https://github.com/Krishnagangwal/CS-Fundamentals</link>
       <description>Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS &amp;amp; SQL, OOPs, Operating Systems, System Design &amp;amp; Software Engineering
 
-💡 Krishnagangwal/CS-Fundamentals 是一套面向技术面试的系统化CS基础合集，覆盖数据结构算法、网络、数据库、操作系统等核心模块，一站式补齐面试所需的理论短板。开发者应关注其**结构化梳理与高频考点聚焦**，尤其适合校招和跳槽前的快速复习。
+💡 **CS-Fundamentals** 把面试必考的六大核心领域（DSA、网络、数据库、OS、OOP、系统设计）整理成一套结构化的速查知识库，一站式补齐校招面试的理论短板。每个模块都配有精炼图解和实战题型，帮你从「学过但讲不清」跨越到「面试对答如流」。
+
+---
+
+无需改动了，我对这个推荐语还挺满意
 
 </description>
       <guid isPermaLink="true">https://github.com/Krishnagangwal/CS-Fundamentals</guid>
     </item>
     <item>
-      <title>uzairansaruzi/hermex ⭐474</title>
+      <title>uzairansaruzi/hermex ⭐475</title>
       <link>https://github.com/uzairansaruzi/hermex</link>
       <description>Native iPhone app for your Hermes agent
 
-💡 Hermex 将 Hermes Agent 的能力原生带到 iPhone，让你摆脱桌面束缚、随时调度 AI 团队。Swift 原生构建、直连本地实例，体验流畅无中转。对重度依赖 Hermes 做任务编排的开发者而言，这是把整个指挥中心装进口袋的关键一块拼图。
+💡 Hermex 将 Hermes AI Agent 原生移植到 iPhone，用 Swift 打造流畅的移动端团队调度体验。补齐了 Hermes 生态在移动场景的关键空白，让开发者随时随地指挥 AI 干活。
 
 `hermes` · `hermes-agent` · `hermex` · `ios` · `llm`</description>
       <guid isPermaLink="true">https://github.com/uzairansaruzi/hermex</guid>
